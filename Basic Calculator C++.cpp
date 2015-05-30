@@ -29,7 +29,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout << " Simple Calculator Program by Bill Golembieski" << endl;
 	cout << "Enter a Number" << endl;
 		cin >> inputa;
-		cout << "Enter an operation (+ , - , / , *)" << endl;
+	cout << "Enter an operation (+ , - , / , *)" << endl;
 		cin >> operation;
 	cout << "Enter another number" << endl;
 		cin >> inputb;
